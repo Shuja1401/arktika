@@ -1,8 +1,8 @@
-# MVP Scraper Requirements
-
+# MVP requirements
 ---
+## For scraper
 
-## 1. General Information
+## 1. General information
 
 - **Number of posts per day:** 100 posts per day **per account**  
 - **Number of accounts (sample size):** 4 (can be extended to 10)  
