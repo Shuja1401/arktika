@@ -6,4 +6,4 @@ WHO IS IMPORTANT?
 - leaders holding senior posts within a party but not elected - spokespersons, party presidents, etc.
 - Incumbents
 
-Activity level
+What about posts with videos and images? How to analyse the information of videos and images?
