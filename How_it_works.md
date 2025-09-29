@@ -7,3 +7,4 @@ WHO IS IMPORTANT?
 - Incumbents
 
 What about posts with videos and images? How to analyse the information of videos and images?
+It will be real-time.
