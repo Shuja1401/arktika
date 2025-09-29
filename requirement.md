@@ -37,4 +37,10 @@
 ## 3. Data File Format
 
 - **Format:** CSV  
-- **Recommended Columns:**  
+- **Recommended Columns:**
+---
+#FOR MAIN PRODUCT
+---
+### Sample size
+1. Parties: 75
+2. leaders: 250
